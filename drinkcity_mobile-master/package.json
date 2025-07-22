@@ -12,7 +12,7 @@
 		"native-base": "^2.2.0",
 		"prop-types": "^15.6.0",
 		"react": "16.0.0-alpha.12",
-		"react-native": "0.45.1",
+		"react-native": "0.80.1",
 		"react-native-app-intro": "^1.1.5",
 		"react-native-camera": "^0.7.0",
 		"react-native-fontawesome": "^5.7.0",
@@ -27,7 +27,7 @@
 		"react-native-multiple-select": "^0.4.4",
 		"react-native-photo-upload": "^1.2.0",
 		"react-native-popup-menu": "^0.12.2",
-		"react-native-svg": "^5.2.0",
+		"react-native-svg": "^5.5.1",
 		"react-native-swiper": "git+https://github.com/FuYaoDe/react-native-swiper.git",
 		"react-native-webrtc": "git+https://git@github.com/oney/react-native-webrtc.git#rn-less-40",
 		"react-native-video": "^3.2.1",
@@ -39,7 +39,7 @@
 	"devDependencies": {
 		"babel-jest": "22.1.0",
 		"babel-preset-react-native": "4.0.0",
-		"jest": "22.1.4",
+		"jest": "30.0.5",
 		"react-test-renderer": "16.0.0-alpha.12"
 	},
 	"jest": {
